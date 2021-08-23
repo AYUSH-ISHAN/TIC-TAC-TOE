@@ -1,0 +1,184 @@
+
+*{
+	
+	font-family: 'Poppins', sans-serif;
+	box-sizing: border-box;
+}
+
+body{
+	background: blueviolet;
+	padding: 10% 40%;
+}
+
+.selections{
+
+}
+
+.selections .first_page{
+
+}
+
+.selections .second_page{
+
+}
+
+.selections .first_page .header{
+
+}
+
+.selections .first_page .purpose{
+
+}
+
+.selections .first_page .purpose .button{
+
+	font-size: 20px;
+	font-weight: 500;
+	padding: 20px 25px 25px;
+	border-radius: 5px;
+	max-width: 400px;
+	width: 100%;
+
+}
+
+.selections .first_page .purpose .button:hover,
+.btn button:hover{
+
+	transform:  scale(0.8);
+}
+
+.selections .second_page .header{
+
+}
+
+.selections .second_page .purpose{
+
+}
+
+.selections .second_page .purpose .button{
+
+	font-size: 20px;
+	font-weight: 500;
+	padding: 20px 25px 25px;
+	border-radius: 5px;
+	max-width: 400px;
+	width: 100%;
+
+}
+
+
+.selections .second_page .purpose .button:hover,
+.btn button:hover{
+
+	transform:  scale(0.8);
+}
+
+.selections .game_page{
+
+
+}
+
+.selections .game_page .header{
+
+
+}
+
+.selections .game_page .turn_slider{
+
+
+}
+
+/* here do for span part --> */
+
+.selections .game_page .arena section{
+
+	  display: flex;
+	  
+
+}
+
+.selections .game_page .arena section span{
+
+	  display: block;
+	  height: 90px;
+	  width: 90px;
+	  margin: 2px;
+	  color: #56baed;
+	  font-size: 40px;
+	  line-height: 80px;
+	  text-align: center;
+	  border-radius: 5px;
+	  background: #fff;
+	  padding: 20px 20px;
+
+
+}
+
+.selections .game_page .score_board section{
+
+		display: flex;
+}
+
+.selections .game_page .score_board section table{
+
+		  border-width: 50px 50px;
+		  display: block;
+		  height: 100px;
+		  width: 150x;
+		  margin: 2px;
+		  color: black;
+		  font-size: 5spx;
+		  line-height: 80px;
+		  text-align: center;
+		  border-radius: 5px;
+		  background: #fff;
+		  padding: 10px 10px;
+}
+
+
+.selections .game_page .end_game{
+
+		  
+
+}
+
+.selections .game_page .end_game{
+
+
+}
+
+.selections .game_page .end_game button.end_game{
+
+	font-size: 20px;
+	font-weight: 500;
+	
+	padding: 20px 25px 25px;
+	border-radius: 5px;
+	max-width: 400px;
+	width: 100%;
+
+}
+
+.selections .game_page .end_game .button.end_game:hover,
+.btn button:hover{
+
+	transform:  scale(0.8);
+}
+
+.selections .game_page .end_game button.restart{
+
+	font-size: 20px;
+	font-weight: 500;
+	
+	padding: 20px 25px 25px;
+	border-radius: 5px;
+	max-width: 400px;
+	width: 100%;
+
+}
+
+.selections .game_page .end_game .button.restart:hover,
+.btn button:hover{
+
+	transform:  scale(0.8);
+}
